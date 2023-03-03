@@ -1,0 +1,12 @@
+﻿  Lab.1.2.cpp
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(10,2): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'short *'
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(10,2): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(10,2): message : placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(12,2): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'short *'
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(12,2): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(12,2): message : placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(13,2): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'short *'
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(13,2): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Lab.1.2.cpp(13,2): message : placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  Lab.1.2.vcxproj -> C:\Users\Riedery\source\repos\C++\Lab1\2\Lab.1.2\Debug\Lab.1.2.exe
